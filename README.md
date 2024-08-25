@@ -1,1 +1,2 @@
-# BasicsTrash
+In this repo 
+i will add all the simple codes like basic concepts of html css and js....
